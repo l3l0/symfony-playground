@@ -19,7 +19,8 @@
         "jms/security-extra-bundle": "1.1.*",
         "jms/di-extra-bundle": "1.0.*",
         "behat/symfony2-extension": "*",
-        "behat/mink-extension": "*"
+        "behat/mink-extension": "*",
+        "behat/mink-browserkit-driver": "*"
     },
     "scripts": {
         "post-install-cmd": [
